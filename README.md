@@ -1,6 +1,6 @@
 # ⚪ IA Tron Battle - Gruppo Palkia ⚪
 <div align="center">
-  <img src="https://github.com/matte18it/TronBattle---IA-Palkia/blob/main/TronBattle/src/main/resources/githubIMG/palkia.gif?raw=true" alt="Palkia">
+  <img src="https://github.com/matte18it/TronBattle-IA_Palkia/blob/main/TronBattle/src/main/resources/githubIMG/palkia.gif?raw=true" alt="Palkia">
 </div>
 <div align="justify">
   Benvenuti al progetto IA Tron Battle del Gruppo Palkia! Questo progetto mira a sviluppare un'intelligenza artificiale (utilizzando Java e ASP) per competere nel gioco Tron Battle. Il nostro obiettivo è creare un sistema intelligente capace di prendere decisioni rapide e strategiche per sfidare avversari umani e altre IA.
@@ -70,5 +70,6 @@ BFS è utilizzato per esplorare le celle circostanti in modo sistematico. Questo
 
 ## ❗️ Disclaimer ❗️
 <div align="justify">
-  L'IA è stata sviluppata come progetto universitario del corso "Intelligenza Artificiale" del Dipartimento di Matematica e Informatica (DeMaCS) dell'Università della Calabria. Il progetto consiste nel sviluppare 4 IA, una per gruppo (4 gruppi da 2 persone ciascuno), utilizzando ASP e Java (collegando i moduli ASP a DLV2 con EmbASP) con l'obiettivo finale di farle competere tra loro nel famoso gioco Tron Battle.
+  L'IA è stata sviluppata come progetto universitario del corso "Intelligenza Artificiale" del Dipartimento di Matematica e Informatica (DeMaCS) dell'Università della Calabria. Il progetto consiste nel sviluppare 4 IA, una per gruppo (4 gruppi da 2 persone ciascuno), utilizzando ASP e Java (collegando i moduli ASP a DLV2 con EmbASP) con l'obiettivo finale di farle competere tra loro nel famoso gioco Tron Battle. Inoltre, per far funzionare il progetto è necessario fare, se avviato in Intellij, tasto destro sulle librerie "antlr-4.7-complete" e "embASP" contenute nella cartella "lib" del progetto e poi cliccare sulla voce "Add as library...".
+
 </div>
