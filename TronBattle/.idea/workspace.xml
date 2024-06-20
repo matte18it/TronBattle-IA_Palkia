@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef6e5c4e-3afa-42f0-a066-5ab760f69598" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/dlv-2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_4F/attackStrategy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_4F/chooseEnemy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_4F/closedOptimizationStrategy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_4F/findBestCellForPath.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_4F/openOptimizationStrategy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_4F/variableProgram.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_Dialga/attackStrategy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_Dialga/chooseEnemy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_Dialga/closedOptimizationStrategy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_Dialga/findBestCellForPath.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_Dialga/openOptimizationStrategy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_Dialga/variableProgram.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_NonPiuSoli/attackStrategy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_NonPiuSoli/chooseEnemy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_NonPiuSoli/closedOptimizationStrategy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_NonPiuSoli/findBestCellForPath.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_NonPiuSoli/openOptimizationStrategy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodings/encodings_NonPiuSoli/variableProgram.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/DepthFreeSpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/DistanceBetweenEnemies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/DistanceBetweenPlayerEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/EdgeDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/EnemyDistanceFromNextCell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/FinalEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/FinalMove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/FreeAdjacent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/IndirectCell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/IndirectCellDepth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/MinDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/NextCell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/ReachableEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Facts/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/MainClass4F.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Research/AStar/AStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Research/BFS/BreadthFirstSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Research/CloseEnemy/CloseEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Research/Support/Cell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Research/Support/PlayerPositionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Research/Support/PosizioniPlayers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Utility/DataClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F/Utility/FindLockingPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/DepthFreeSpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/DistanceBetweenEnemies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/DistanceBetweenPlayerEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/EdgeDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/EnemyDistanceFromNextCell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/FinalEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/FinalMove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/FreeAdjacent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/IndirectCell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/IndirectCellDepth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/MinDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/NextCell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/ReachableEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Facts/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/MainClassDialga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Research/AStar/AStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Research/BFS/BreadthFirstSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Research/CloseEnemy/CloseEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Research/Support/Cell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Research/Support/PlayerPositionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Research/Support/PosizioniPlayers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Utility/DataClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Dialga/Utility/FindLockingPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/DepthFreeSpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/DistanceBetweenEnemies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/DistanceBetweenPlayerEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/EdgeDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/EnemyDistanceFromNextCell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/FinalEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/FinalMove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/FreeAdjacent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/IndirectCell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/IndirectCellDepth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/MinDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/NextCell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/ReachableEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Facts/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/MainClassNonPiuSoli.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Research/AStar/AStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Research/BFS/BreadthFirstSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Research/CloseEnemy/CloseEnemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Research/Support/Cell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Research/Support/PlayerPositionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Research/Support/PosizioniPlayers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Utility/DataClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli/Utility/FindLockingPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Palkia/MainClassPalkia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/application/IA/IA_Palkia/MainClassPalkia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/controller/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/application/controller/MenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/model/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/application/model/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/view/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/application/view/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/view/MenuView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/application/view/MenuView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;matte18it&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/matte18it/TronBattle-IA.git&quot;,
+    &quot;accountId&quot;: &quot;f86fba6f-082f-4a26-b667-dedc054e80e8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gu9YvGXZzPTQ9aLTT1WkfFSLIe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/matteocanino/Desktop/Universita/IA/TronBattle-IA/TronBattle/lib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/application/IA/IA_NonPiuSoli" />
+      <recent name="$PROJECT_DIR$/encodings/encodings_NonPiuSoli" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/application/IA/IA_4F" />
+      <recent name="$PROJECT_DIR$/encodings/encodings_4F" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.application.Main" />
+      <module name="TronBattle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6e5c4e-3afa-42f0-a066-5ab760f69598" name="Changes" comment="" />
+      <created>1716536646636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716536646636</updated>
+      <workItem from="1716536647726" duration="19034000" />
+      <workItem from="1716564816592" duration="1868000" />
+      <workItem from="1716576734182" duration="1867000" />
+      <workItem from="1716581569934" duration="3323000" />
+      <workItem from="1716588606139" duration="39000" />
+      <workItem from="1716615318479" duration="3756000" />
+      <workItem from="1716650949847" duration="11751000" />
+      <workItem from="1716705844275" duration="25912000" />
+      <workItem from="1716750829142" duration="545000" />
+      <workItem from="1716751385991" duration="367000" />
+      <workItem from="1716793093825" duration="4954000" />
+      <workItem from="1716832454670" duration="15000" />
+      <workItem from="1716877714211" duration="1073000" />
+      <workItem from="1716881193622" duration="1619000" />
+      <workItem from="1716882895306" duration="2470000" />
+      <workItem from="1716893549373" duration="634000" />
+      <workItem from="1716899966566" duration="1066000" />
+      <workItem from="1716901247604" duration="1065000" />
+      <workItem from="1716914466485" duration="268000" />
+      <workItem from="1716917019775" duration="1991000" />
+      <workItem from="1716919243735" duration="4526000" />
+      <workItem from="1716930737022" duration="76000" />
+      <workItem from="1716932134298" duration="49000" />
+      <workItem from="1716965375742" duration="3205000" />
+      <workItem from="1716970186857" duration="4516000" />
+      <workItem from="1716987473231" duration="716000" />
+      <workItem from="1717005599081" duration="39000" />
+      <workItem from="1717073958955" duration="64000" />
+      <workItem from="1718876342096" duration="1215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
