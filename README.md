@@ -36,7 +36,7 @@ Il modulo di ottimizzazione (scritto in ASP) prende le prossime celle 'legali' i
   <li>Successivamente verifica che i nemici che riesce a raggiungere non siano tutti vicini. Se sono tutti vicini, li ignora e si attiva il modulo di ottimizzazione dello spazio per sopravvivere il più a lungo in attesa di avere un nemico da attaccare.</li>
   <li>Se i nemici raggiungibili sono tutti lontani tra loro (o comunque è presente un nemico che è più lontano rispetto agli altri), utilizzo ASP per decretare il nemico migliore da attaccare. Il nemico migliore da attaccare tra quelli raggiungibili viene decretato secondo alcuni criteri:</li>
   <ul>
-    <li>La IA cerca di prendere il nemico che è più lontano dalgi altri, quindi la cui somma delle distanze verso tutti i nemici è più alta.</li>
+    <li>La IA cerca di prendere il nemico che è più lontano dagli altri, quindi la cui somma delle distanze verso tutti i nemici è più alta.</li>
     <li>La IA cerca di prendere il nemico attualmente più vicino a lei.</li>
     <li>La IA cerca di prendere il nemico che ha meno spazio libero.</li>
     <li>La IA cerca di prendere il nemico che è più vicino ad un bordo.</li>
