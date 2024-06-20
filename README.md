@@ -3,13 +3,13 @@
   <img src="https://github.com/matte18it/TronBattle-IA_Palkia/blob/main/TronBattle/src/main/resources/githubIMG/palkia.gif?raw=true" alt="Palkia">
 </div>
 <div align="justify">
-  Benvenuti al progetto IA Tron Battle del Gruppo Palkia! Questo progetto mira a sviluppare un'intelligenza artificiale (utilizzando Java e ASP) per competere nel gioco Tron Battle. Il nostro obiettivo è creare un sistema intelligente capace di prendere decisioni rapide e strategiche per sfidare avversari umani e altre IA.
-Al progetto hanno lavorato gli studenti dell'università della Calabria:
-<ul>
-  <li>Matteo Canino</li>
-  <li>Fortunato Andrea Gagliardi</li>
-</ul>
-
+  Benvenuti al progetto IA Tron Battle del Gruppo Palkia! Questo progetto mira a sviluppare un'intelligenza artificiale (utilizzando Java e ASP) per competere nel gioco Tron
+  Battle. Il nostro obiettivo è creare un sistema intelligente capace di prendere decisioni rapide e strategiche per sfidare avversari umani e altre IA. <br>
+  Al progetto hanno lavorato gli studenti dell'università della Calabria:
+  <ul>
+    <li>Matteo Canino</li>
+    <li>Fortunato Andrea Gagliardi</li>
+  </ul>
 </div>
 
 ## 🌃 Ambiente 🌃
