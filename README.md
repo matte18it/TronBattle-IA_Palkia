@@ -1,6 +1,6 @@
 # ⚪ IA Tron Battle - Gruppo Palkia ⚪
 <div align="center">
-  <img src="https://github.com/matte18it/TronBattle-IA/blob/main/TronBattle/src/main/resources/githubIMG/palkia.gif?raw=true" alt="Palkia">
+  <img src="https://github.com/matte18it/TronBattle---IA-Palkia/blob/main/TronBattle/src/main/resources/githubIMG/palkia.gif?raw=true" alt="Palkia">
 </div>
 <div align="justify">
   Benvenuti al progetto IA Tron Battle del Gruppo Palkia! Questo progetto mira a sviluppare un'intelligenza artificiale (utilizzando Java e ASP) per competere nel gioco Tron Battle. Il nostro obiettivo è creare un sistema intelligente capace di prendere decisioni rapide e strategiche per sfidare avversari umani e altre IA.
